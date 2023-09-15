@@ -1,4 +1,3 @@
-<div align="center">
 ✨안녕하세요 백엔드 개발자가 되기 위해 공부하고 있는 전재권입니다.
    Hello. I'm J to be a back-end programmer.
 🎈프로젝트 관련 코드, 개인 공부 코드 등을 올리고 있습니다.
@@ -16,7 +15,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwsheep&show_icons=true&theme=vue) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwsheep&layout=compact&theme=vue)
-</div>
+
   
 <!--
 **gwsheep/gwsheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
