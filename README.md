@@ -9,7 +9,9 @@
 1. new
 
 🔭 GitHub 소개
+
 <div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwsheep&show_icons=true&theme=vue) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwsheep&hide=html,css&layout=compact&theme=vue)
 
