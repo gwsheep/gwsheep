@@ -1,7 +1,6 @@
-✨안녕하세요 백엔드 개발자가 되기 위해 공부하고 있는 전재권입니다.
-   Hello. I'm J to be a back-end programmer.
-🎈프로젝트 관련 코드, 개인 공부 코드 등을 올리고 있습니다.
-   This is a website which I upload code related to Project or to Studying on.
+✨안녕하세요 백엔드 개발자가 되기 위해 공부하고 있는 전재권입니다. Hello. I'm J to be a back-end programmer.
+   
+🎈프로젝트 관련 코드, 개인 공부 코드 등을 올리고 있습니다. This is a website which I upload code related to Project or to Studying on.
    
 🌱 프로젝트
 1. Team_2 중앙정보처리학원 1차 프로젝트 (2023.05.30.~2023.08.03.) - 중고거래 게시판, 메인 페이지
