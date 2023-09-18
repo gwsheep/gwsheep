@@ -10,6 +10,7 @@
 1. new(private)
 2. gwsheepPublic(public)
 3. app(private, 공부중 공부하고 삭제)
+4. pythonStudy(private, 공부중 공부하고 삭제)
 
 🔭 GitHub 소개
 
