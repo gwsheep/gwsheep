@@ -8,10 +8,8 @@
 3. 중앙정보처리학원 3차 프로젝트 (2023.09.~) - 
 
 🌱 개인 공부
-1. new(private)
-2. gwsheepPublic(public)
-3. app(private, 공부중 공부하고 삭제)
-4. pythonStudy(private, 공부중 공부하고 삭제)
+1. gwsheepPublic(public)
+
 
 🔭 GitHub 소개
 
