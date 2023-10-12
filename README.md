@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=전재권%20Github&fontSize=70&fontColor=#000000)
 
-✨###Introduce
+✨### Introduce
 안녕하세요 백엔드 개발자가 되기 위해 공부하고 있는 전재권입니다. Hello. I'm J to be a back-end programmer.
 프로젝트 관련 코드, 개인 공부 코드 등을 올리고 있습니다. This is a website which on I upload code related to Project or to Studying.
 
@@ -8,7 +8,7 @@
 
 
    
-🌱 ###Team Project
+🌱 ### Team Project
 
 1. 중앙정보처리학원 1차 프로젝트 모두의게시판(2023.05.30.~2023.08.03.) by Team_2- 중고거래 게시판, 메인 페이지
    
@@ -18,11 +18,11 @@
 
 
 
-🌱 ###Private Project
+🌱 ### Private Project
 
 
 
-🌱 ###Private Studying
+🌱 ### Private Studying
 1. gwsheepPublic(public)
 
 
