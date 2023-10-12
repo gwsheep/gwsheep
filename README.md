@@ -2,11 +2,14 @@
 <div align="center">
 ✨Introduce
 안녕하세요 백엔드 개발자가 되기 위해 공부하고 있는 전재권입니다. Hello. I'm J to be a back-end programmer.<br/>
-프로젝트 관련 코드, 개인 공부 코드 등을 올리고 있습니다. This is a website which on I upload code related to Project or to Studying.
+프로젝트 관련 코드, 개인 공부 코드 등을 올리고 있습니다. This is a website which on I upload code related to Project or to Studying.<br/>
 </div>
 
+<br/><br/>
+
 <div align="center">
-   
+
+**Language**
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 
