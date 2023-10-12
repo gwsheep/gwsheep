@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=전재권%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=전재권%20Github&fontSize=90)
 
 ✨안녕하세요 백엔드 개발자가 되기 위해 공부하고 있는 전재권입니다. Hello. I'm J to be a back-end programmer.
    
