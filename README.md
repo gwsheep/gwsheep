@@ -48,7 +48,7 @@
 
 <br/>
 
-🌱 **Private Studying**<br/>
+🌱 **Private Studying** <br/>
 1. gwsheepPublic(public)<br/>
 
 <br/>
