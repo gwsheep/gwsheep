@@ -22,7 +22,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwsheep&show_icons=true&theme=vue) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwsheep&layout=compact&theme=vue)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=감사합니다&fontSize=50&fontColor=#000000)
   
 <!--
 **gwsheep/gwsheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
