@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=100:#7fff00&height=200&section=header&text=전재권%20Github&fontSize=70&fontColor=#000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=전재권%20Github&fontSize=70&fontColor=#000000)
 
 ✨안녕하세요 백엔드 개발자가 되기 위해 공부하고 있는 전재권입니다. Hello. I'm J to be a back-end programmer.
    
@@ -22,7 +22,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwsheep&show_icons=true&theme=vue) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwsheep&layout=compact&theme=vue)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=#7fff00&height=200&section=footer&text=감사합니다&fontSize=50&fontColor=#000000)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=감사합니다&fontSize=50&fontColor=#000000)
   
 <!--
 **gwsheep/gwsheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
