@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=전재권%20Github&fontSize=70&fontColor=#000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JaeGwon%20Github&fontSize=70&fontColor=#000000)
 
 </div>
 
