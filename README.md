@@ -44,7 +44,8 @@
 3. 중앙정보기술인재개발원 3차 프로젝트 JobStartUp(2023.09.18~2023.10.25.) by PickMeUp - DB관리, 채용관리, 기업서비스<br/>
 
 <br/>
-🌱 **Private Project**<br/>
+🌱 **Private Project** <br/>
+1.
 
 <br/>
 
