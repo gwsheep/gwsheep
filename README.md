@@ -4,8 +4,10 @@
 안녕하세요 백엔드 개발자가 되기 위해 공부하고 있는 전재권입니다. Hello. I'm J to be a back-end programmer.
 프로젝트 관련 코드, 개인 공부 코드 등을 올리고 있습니다. This is a website which on I upload code related to Project or to Studying.
 
-
+<div align="center">
+   
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
 
@@ -13,6 +15,8 @@
 
 
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/><img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"/>
+
+</div>
 
 
    
