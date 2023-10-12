@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=전재권%20Github&fontSize=70&fontColor=#000000)
 
 ✨안녕하세요 백엔드 개발자가 되기 위해 공부하고 있는 전재권입니다. Hello. I'm J to be a back-end programmer.
+
 🎈프로젝트 관련 코드, 개인 공부 코드 등을 올리고 있습니다. This is a website which on I upload code related to Project or to Studying.
-
-
-
 
 
    
