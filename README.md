@@ -2,10 +2,13 @@
    
 🎈프로젝트 관련 코드, 개인 공부 코드 등을 올리고 있습니다. This is a website which on I upload code related to Project or to Studying.
    
-🌱 프로젝트
+🌱 팀 프로젝트
 1. 중앙정보처리학원 1차 프로젝트 모두의게시판(2023.05.30.~2023.08.03.) by Team_2- 중고거래 게시판, 메인 페이지
 2. 중앙정보처리학원 2차 프로젝트 Jeans(2023.08.18.~2023.09.12.) by JeansPro - 반별 게시판, 쪽지, 찾아오시는 길
 3. 중앙정보처리학원 3차 프로젝트 JobStartUp(2023.09.18~2023.10.25.) by PickMeUp - DB관리, 채용관리, 기업서비스
+
+🌱 개인 프로젝트
+1.
 
 🌱 개인 공부
 1. gwsheepPublic(public)
