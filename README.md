@@ -19,8 +19,11 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>(https://gw-sheep.tistory.com/)&nbsp;
 
+<a href="https://gw-sheep.tistory.com/">
+   <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/><br>;
+</a>
+      
 </div>
 
 <br/>
