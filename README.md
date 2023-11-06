@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/><br/>
 
 **Library**<br/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Ajax-3776AB?style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/><br/>
@@ -57,13 +57,15 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/><br/>
 
 **Server**<br/>
-<img src="https://img.shields.io/badge/Apache Tomecat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/><br/>
 
 **DBMS**<br/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><br/>
 
 **Build Tool**<br/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"/><br/>
 
 **Tool**<br/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>&nbsp;
