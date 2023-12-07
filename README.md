@@ -80,10 +80,12 @@
 2. 중앙정보기술인재개발원 2차 프로젝트 Jeans by JeansPro - 반별 게시판, 쪽지, 찾아오시는 길<br/>
 3. 중앙정보기술인재개발원 3차 프로젝트 JobStartUp by PickMeUp - DB관리, 기업서비스(마이페이지, 일반페이지, 정보 수정, 채용관리)<br/>
 
+<!--
 <br/>
 
 🌱 **Private Project**<br/>
 1.
+-->
 
 <br/>
 
