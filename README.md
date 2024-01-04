@@ -12,6 +12,10 @@
 ✨ **Introduce**<br/>
 안녕하세요 개발자가 되기 위해 공부하고 있는 전재권입니다.<br/>
 프로젝트 관련 코드, 개인 공부 코드 등을 올리고 있습니다.<br/>
+개발자가 되기 위해 공부중입니다.<br/>
+
+Tel: 010-3129-8369
+Mail: jae-kwen@daum.net / jaekwen419@naver.com
 
 </div>
 
