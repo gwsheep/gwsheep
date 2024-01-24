@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/JSP Servlet-3776AB?style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><br/>
 
-**FramWork**<br/>
+**Framework**<br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/><br/>
 
