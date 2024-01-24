@@ -105,7 +105,9 @@
 
 🔭 **myPage** <br/>
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwsheep%2Fhit-counter&count_bg=%233945C4&title_bg=%23555555&icon=github.svg&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwsheep&show_icons=true&theme=vue) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwsheep&layout=compact&theme=vue)
