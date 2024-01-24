@@ -27,9 +27,11 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>&nbsp;
 -->
 
-
 <a href="https://gw-sheep.tistory.com/">
    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
+</a>
+<a href="https://gwsheep.github.io/">
+   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 </a>
       
 </div>
