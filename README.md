@@ -84,9 +84,9 @@
 </div>
  
 🌱 **Team Project**<br/>
-1. 중앙정보기술인재개발원 1차 프로젝트 모두의게시판 by Team_2- 중고거래 게시판, 메인 페이지<br/>
-2. 중앙정보기술인재개발원 2차 프로젝트 Jeans by JeansPro - 반별 게시판, 쪽지, 찾아오시는 길<br/>
-3. 중앙정보기술인재개발원 3차 프로젝트 JobStartUp by PickMeUp - DB관리, 기업서비스(마이페이지, 일반페이지, 정보 수정, 채용관리)<br/>
+1. 중앙정보기술인재개발원 1차 프로젝트(public) 모두의게시판 by Team_2- 중고거래 게시판, 메인 페이지<br/>
+2. 중앙정보기술인재개발원 2차 프로젝트(public) Jeans by JeansPro - 반별 게시판, 쪽지, 찾아오시는 길<br/>
+3. 중앙정보기술인재개발원 3차 프로젝트(public) JobStartUp by PickMeUp - DB관리, 기업서비스<br/>
 
 <!--
 <br/>
@@ -96,10 +96,10 @@
 
 <br/>
 
-🌱 **Private Studying** <br/>
+🌱 **Private Updated** <br/>
 1. gwsheepPublic(public)<br/>
 2. core(private) - spring framework 공부중<br/>
-3. gwsheep.github.io - 블로그 연습중(VS code 연동)<br/>
+3. gwsheep.github.io(public) - 블로그 연습중(VS code 연동)<br/>
 
 <br/>
 
