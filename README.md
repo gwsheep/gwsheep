@@ -31,7 +31,7 @@
    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
 </a>
 <a href="https://gwsheep.github.io/">
-   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/githubpages-222222?style=flat&logo=githubpages&logoColor=white"/>
 </a>
       
 </div>
