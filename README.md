@@ -55,8 +55,8 @@
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Ajax-3776AB?style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>&nbsp<br/>;
 
 **IDE**<br/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>&nbsp;
