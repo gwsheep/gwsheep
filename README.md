@@ -28,10 +28,10 @@
 
 <a href="https://gwsheep.github.io/">
    <img src="https://img.shields.io/badge/githubpages-222222?style=flat&logo=githubpages&logoColor=white"/>
-</a>&nbsp;
+&nbsp;
 <a href="https://gw-sheep.tistory.com/">
    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
-</a>&nbsp;
+&nbsp;
 
       
 </div>
