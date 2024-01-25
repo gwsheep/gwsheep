@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks (Studying) </h2> <br> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks (Studying & Learned) </h2> <br> 
 
 
 **Language**<br/>
