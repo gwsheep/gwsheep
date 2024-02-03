@@ -10,10 +10,8 @@
 <div align="center">
    
 ✨ **Introduce**<br/>
-안녕하세요 서비스를 제공하는 개발자가 되려고 공부하고 있는 전재권입니다.<br/>
-프로젝트 관련 코드, 공부 코드 등을 올리고 있습니다.<br/>
-신입 개발자입니다<br/>
-
+안녕하세요 서비스 플랫폼을 제공하는 개발자가 되려고 공부하고 있는, 신입 개발자 전재권입니다.<br/>
+프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습니다.<br/>
 📤 jae-kwen@daum.net<br/>
 📤 jaekwen419@naver.com
 
@@ -75,12 +73,12 @@
 
 
 </div>
- 
+ <!--
 🌱 **Team Project**<br/>
 1. 중앙정보기술인재개발원 1차 프로젝트(public) 모두의게시판 by Team_2- 중고거래 게시판, 메인 페이지<br/>
 2. 중앙정보기술인재개발원 2차 프로젝트(public) Jeans by JeansPro - 반별 게시판, 쪽지, 찾아오시는 길<br/>
 3. 중앙정보기술인재개발원 3차 프로젝트(public) JobStartUp by PickMeUp - DB관리, 기업서비스<br/>
-
+-->
 <!--
 <br/>
 🌱 **Private Project**<br/>
@@ -104,9 +102,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwsheep&show_icons=true&theme=vue) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwsheep&layout=compact&theme=vue)
-
-
-
 
  
 <!--
