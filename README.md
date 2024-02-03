@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&text=jaegwon%20github&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&text=전재권%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 
 </div>
 
