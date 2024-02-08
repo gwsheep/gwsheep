@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=Sublime Text&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white"/><br/>
 **Server**<br/>
 <img src="https://img.shields.io/badge/Express-339933?style=flat"/>&nbsp;
@@ -68,10 +69,11 @@
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/><br/>
 **Tool**<br/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-
 
 </div>
  <!--
