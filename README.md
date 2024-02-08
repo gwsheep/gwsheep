@@ -92,8 +92,8 @@
 
 🌱 **Private Updated - Studying.. TIL** <br/>
 1. gwsheepPublic(public)<br/>
-2. core(private) - spring framework 공부중<br/>
-3. gwsheep.github.io(public) - 블로그 연습중(VS code 연동)<br/>
+2. core(private) - spring framework 공부중(With IntelliJ)<br/>
+3. gwsheep.github.io(public) - 블로그 연습중(With VSCode)<br/>
 
 <br/>
 
