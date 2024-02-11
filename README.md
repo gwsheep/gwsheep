@@ -19,16 +19,8 @@
 
 <div align= "center">
 
-<!--
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>&nbsp;
-<a href="https://gwsheep.github.io/"><img src="https://img.shields.io/badge/githubpages-222222?style=flat&logo=githubpages&logoColor=white"/></a>&nbsp;
--->
-
-
 <a href="https://gw-sheep.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp;
 
-      
 </div>
 
 <br/>
@@ -76,23 +68,10 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 
-</div>
- <!--
-🌱 **Team Project**<br/>
-1. 중앙정보기술인재개발원 1차 프로젝트(public) 모두의게시판 by Team_2- 중고거래 게시판, 메인 페이지<br/>
-2. 중앙정보기술인재개발원 2차 프로젝트(public) Jeans by JeansPro - 반별 게시판, 쪽지, 찾아오시는 길<br/>
-3. 중앙정보기술인재개발원 3차 프로젝트(public) JobStartUp by PickMeUp - DB관리, 기업서비스<br/>
--->
-<!--
-<br/>
-🌱 **Private Project**<br/>
-1.
--->
-
 <br/>
 
 🌱 **Private Updated - Studying.. TIL** <br/>
-1. (private) codingTestJAVA - 코딩테스트(자바알고리즘/프로그래머스/백준) (with IntelliJ)<br/>
+1. (private) codingTestJAVA - 코딩테스트(자바알고리즘/하루코딩/프로그래머스/백준) (with IntelliJ)<br/>
 2. (private) core - spring framework 공부중 (With IntelliJ)<br/>
 3. (public) gwsheep.github.io - 블로그 연습중 (With VSCode)<br/>
 
@@ -109,6 +88,9 @@
 
  
 <!--
+
+**버튼 참고 사이트 https://simpleicons.org/
+
 **gwsheep/gwsheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ** https://docs.github.com/en 참고사이트
 
