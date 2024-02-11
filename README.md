@@ -71,7 +71,7 @@
 <br/>
 
 🌱 **Private Updated - Studying.. TIL** <br/>
-1. (private) codingTestJAVA - 코딩테스트(자바알고리즘/하루코딩/프로그래머스/백준)(with IntelliJ)<br/>
+1. (private) codingTestJAVA - 코딩테스트(강의:자바알고리즘,하루코딩/풀이:프로그래머스,백준,리트코드)(with IntelliJ)<br/>
 2. (private) core - spring framework 공부중(With IntelliJ)<br/>
 3. (public) gwsheep.github.io - 블로그 연습중(With VSCode)<br/>
 
