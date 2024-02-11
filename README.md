@@ -7,11 +7,10 @@
 
 <div align="center">
    
-✨ **Introduce**<br/>
+✨ **Introduce**<br/><br/>
 안녕하세요 서비스 플랫폼을 제공하는 개발자가 되려고 공부하고 있는, 신입 개발자 전재권입니다.<br/>
 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습니다.<br/>
 📤 jae-kwen@daum.net<br/>
-📤 jaekwen419@naver.com
 
 </div>
 
