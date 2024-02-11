@@ -1,11 +1,9 @@
-
+<!--
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&text=전재권%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-
 </div>
-
 <br/>
+-->
 
 <div align="center">
    
@@ -67,6 +65,8 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+
+</div>
 
 <br/>
 
