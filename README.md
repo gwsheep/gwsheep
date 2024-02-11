@@ -71,17 +71,20 @@
 <br/>
 
 🌱 **Private Updated - Studying.. TIL** <br/>
-1. (private) codingTestJAVA - 코딩테스트(자바알고리즘/하루코딩/프로그래머스/백준) (with IntelliJ)<br/>
-2. (private) core - spring framework 공부중 (With IntelliJ)<br/>
-3. (public) gwsheep.github.io - 블로그 연습중 (With VSCode)<br/>
+1. (private) codingTestJAVA - 코딩테스트(자바알고리즘/하루코딩/프로그래머스/백준)(with IntelliJ)<br/>
+2. (private) core - spring framework 공부중(With IntelliJ)<br/>
+3. (public) gwsheep.github.io - 블로그 연습중(With VSCode)<br/>
+
+
 
 <br/>
 
-🔭 **myPage** <br/>
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwsheep%2Fhit-counter&count_bg=%233945C4&title_bg=%23555555&icon=github.svg&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 -->
+
+🔭 **myPage** <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwsheep&show_icons=true&theme=vue) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwsheep&layout=compact&theme=vue)
@@ -90,7 +93,6 @@
 <!--
 
 **버튼 참고 사이트 https://simpleicons.org/
-
 **gwsheep/gwsheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ** https://docs.github.com/en 참고사이트
 
