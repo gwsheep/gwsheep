@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks (Learning or Learned) </h2> <br> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Skill Stacks (Learning or Learned) </h2> <br> 
 
 **Language**<br/>
 <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat"/>&nbsp;
