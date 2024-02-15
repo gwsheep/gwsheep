@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=Sublime Text&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white"/><br/>
-**Server**<br/>
+**Server(+Module)**<br/>
 <img src="https://img.shields.io/badge/Express-339933?style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/><br/>
 **DB&Tool**<br/>
