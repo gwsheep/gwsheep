@@ -61,7 +61,7 @@
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/><br/>
 **OS**<br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=Windows&logoColor=white"/><br/>
 **Tool**<br/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>&nbsp;
