@@ -41,7 +41,7 @@ GitHub에 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>&nbsp;
 
-**Frontend**<br/>
+**For Frontend**<br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/JSP-3776AB?style=flat"/>&nbsp;
