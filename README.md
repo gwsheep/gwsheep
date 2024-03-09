@@ -82,12 +82,15 @@ GitHub에 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습
 
 <br/>
 
-🌱 **Private Updated - Studying.. TIL** <br/>
-1. (private) codingTestJAVA - 코딩테스트(강의:자바알고리즘,하루코딩/풀이:프로그래머스,백준,리트코드) (with IntelliJ)<br/>
-2. (private) servlet - 김영한 Spring MVC 1 공부중 (With IntelliJ)<br/>
-3. (public) gwsheep.github.io - 블로그 연습중 (With VSCode)<br/>
-4. (public) side Project 예상 중..
+🌱 
+**TIL - Studying** <br/>
+1. (public) side Project 예상 중..
+2. (private) codingTestJAVA - 코딩테스트(강의:자바알고리즘,하루코딩/풀이:프로그래머스,백준,리트코드)<br/>
+3. (private) servlet - 인프런/SpringMVC1 by 김영한<br/>
+4. (private) OrderService - 인프런/실전!스프링부트 상품-주문 API 개발로 알아보는 TDD<br/>
 
+**Done** <br/>
+(private) app / new - 학원 수업 코드<br/>
 <br/>
 
 
