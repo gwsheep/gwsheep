@@ -36,6 +36,7 @@ GitHub에 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/>&nbsp;
