@@ -91,13 +91,6 @@ GitHub에 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습
 1. (public) side Project 예상 중..
 2. (private) codingTestJAVA - 코딩테스트(강의:자바알고리즘,하루코딩/풀이:프로그래머스,백준,리트코드)<br/>
 3. (private) servlet - 인프런/SpringMVC1 by 김영한<br/>
-4. (private) OrderService - 인프런/실전!스프링부트 상품-주문 API 개발로 알아보는 TDD<br/><br/>
-
-🌱
-**Done** <br/>
-(private) app / new - 학원 수업 코드<br/>
-<br/>
-
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwsheep%2Fhit-counter&count_bg=%233945C4&title_bg=%23555555&icon=github.svg&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
