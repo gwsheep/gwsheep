@@ -23,69 +23,6 @@ GitHub에 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습
 
 <br/>
 
-<div align="center">
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Skill Stacks (Learning or Learned) </h2> <br> 
-
-**Language**<br/>
-<img src="https://img.shields.io/badge/JAVA-3776AB?style=flat"/>&nbsp;
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><br/>
-
-**Backend**<br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Rundeck-F73F39?style=flat&logo=Rundeck&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Jenkins&logoColor=white"/>&nbsp;<br/>
-
-**For Frontend**<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/JSP-3776AB?style=flat"/>&nbsp;
-<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/><br/>
-
-**IDE, Editor**<br/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=Sublime Text&logoColor=white"/><br/>
-
-**Server and Module**<br/>
-<img src="https://img.shields.io/badge/Express-339933?style=flat"/>&nbsp;
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/><br/>
-
-**DB&Tool**<br/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/MySQL(Workbench)-4479A1?style=flat"/>&nbsp;
-<img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=DBeaver&logoColor=white"/><br/>
-
-**Build Tool**<br/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/><br/>
-
-**OS**<br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=Windows&logoColor=white"/><br/>
-
-**Test&Tool**<br/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=Subversion&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>&nbsp;
-
-</div>
-
-<br/>
-
 🌱 
 **TIL - Studying** <br/>
 1. (public) side Project - Wee
