@@ -12,8 +12,6 @@
 <!-- 마크다운 참고 페이지
 https://gist.github.com/ihoneymon/652be052a0727ad59601
 -->
-
-<div align="center">
    
 ✨ **Introduce**<br/><br/>
 
@@ -35,8 +33,6 @@ GitHub에 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습
 
 
 > 📝 **Writing**
-
-</div>
 
 <div align= "center">
 
