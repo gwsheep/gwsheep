@@ -1,44 +1,20 @@
-<!--
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&text=전재권%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-</div>
-<br/>
--->
-
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwsheep%2Fhit-counter&count_bg=%233945C4&title_bg=%23555555&icon=github.svg&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
--->
-
-<!-- 마크다운 참고 페이지
-https://gist.github.com/ihoneymon/652be052a0727ad59601
--->
    
 ✨ **Introduce**<br/><br/>
 
 📤 jae-kwen@daum.net<br/>
 
-안녕하세요<br/>
-6개월 백엔드 개발자 전재권입니다. (2024.01.29.~) <br/>
-배우는 것이 즐거운 요즘입니다 <br/>
+안녕하세요 6개월 백엔드 개발자 전재권입니다. **(2024.01.29.~)** <br/>
 GitHub에 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습니다.<br/>
 
 * * *
 
-
 > 📖 **Reading**
-
 * 2024
    * 비전공자를 위한 이해할 수 있는 IT 지식
    * 객체 지향의 사실과 오해
 
-
 > 📝 **Writing**
-
-<div align= "center">
-
 <a href="https://gw-sheep.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp;
-
-</div>
 
 * * *
 
@@ -64,4 +40,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
+
+<!--
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&text=전재권%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+</div>
+<br/>
+-->
+
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwsheep%2Fhit-counter&count_bg=%233945C4&title_bg=%23555555&icon=github.svg&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
+-->
+
+<!-- 마크다운 참고 페이지
+https://gist.github.com/ihoneymon/652be052a0727ad59601
+-->
+
+<!--
+<div align= "center">
+</div>
 -->
