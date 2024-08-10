@@ -1,19 +1,23 @@
    
 ## 😊 Jae gwon Jeon 
 
-📤 jae-kwen@daum.net<br/>
+
 안녕하세요 개발자 업무 시작 6개월 된, 백엔드 개발자 전재권입니다. **(2024.01.29.~)** <br/>
 GitHub에 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습니다.<br/>
 
 * * *
 
-> 📝 **Writing**
-* <a href="https://gw-sheep.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp;
+> 📤 jae-kwen@daum.net<br/>
+> <a href="https://gw-sheep.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp;<br/>
   
 > 📖 **Reading**
 * 2024
    * 비전공자를 위한 이해할 수 있는 IT 지식
    * 객체 지향의 사실과 오해
+     
+> 📝 **Writing**
+* 2024
+
 
 * * *
 
