@@ -14,7 +14,7 @@ GitHub에 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습
    * 객체 지향의 사실과 오해
 
 > 📝 **Writing**
-<a href="https://gw-sheep.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp;
+* <a href="https://gw-sheep.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp;
 
 * * *
 
