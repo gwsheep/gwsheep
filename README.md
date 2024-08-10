@@ -7,13 +7,13 @@ GitHub에 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습
 
 * * *
 
+> 📝 **Writing**
+* <a href="https://gw-sheep.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp;
+  
 > 📖 **Reading**
 * 2024
    * 비전공자를 위한 이해할 수 있는 IT 지식
    * 객체 지향의 사실과 오해
-
-> 📝 **Writing**
-* <a href="https://gw-sheep.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp;
 
 * * *
 
@@ -22,12 +22,19 @@ GitHub에 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwsheep&show_icons=true&theme=vue) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwsheep&layout=compact&theme=vue)
 
+
+
+
+
  
 <!--
 
 **버튼 참고 사이트 https://simpleicons.org/
 **gwsheep/gwsheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ** https://docs.github.com/en 참고사이트
+
+**마크다운 참고 페이지
+**https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 Here are some ideas to get you started:
 
@@ -51,13 +58,4 @@ Here are some ideas to get you started:
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwsheep%2Fhit-counter&count_bg=%233945C4&title_bg=%23555555&icon=github.svg&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
--->
-
-<!-- 마크다운 참고 페이지
-https://gist.github.com/ihoneymon/652be052a0727ad59601
--->
-
-<!--
-<div align= "center">
-</div>
 -->
