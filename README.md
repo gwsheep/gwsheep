@@ -8,11 +8,13 @@ GitHub에 프로젝트 관련 코드, 공부 코드(TIL) 등을 올리고 있습
 
 > 📤 jae-kwen@daum.net
 <br/>
+
 > 📖 **Reading**
 * 2024
    * 비전공자를 위한 이해할 수 있는 IT 지식
    * 객체 지향의 사실과 오해
 <br/>
+
 > 📝 **Writing**
 * <a href="https://gw-sheep.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp;<br/>
 
