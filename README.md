@@ -2,7 +2,7 @@
 # 😊 Jae gwon Jeon 
 
 안녕하세요 1년차 백엔드 개발자인 전재권입니다.<br/>
-GitHub에는 프로젝트 관련 코드, 공부 코드(TIL), 코딩 테스트 코드(TIL), 참고용 forked Repository 등이 있습니다.<br/>
+GitHub에는 프로젝트 관련 코드, 공부 코드(TIL), 코딩 테스트 코드(TIL), 참고용 forked Repository 등이 있습니다. (공부 코드는 저작권 문제로 비공개입니다) <br/>
 
 * * *
 
