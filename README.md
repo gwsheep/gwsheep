@@ -87,16 +87,6 @@ GitHub에는 프로젝트 관련 코드, 공부 코드(TIL), 코딩 테스트 �
 -->
 
 * * *
-
-> 🔭 **myPage** <br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwsheep&show_icons=true&theme=vue) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwsheep&layout=compact&theme=vue)
-
-
-
-
-
  
 <!--
 
