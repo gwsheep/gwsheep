@@ -8,10 +8,10 @@ GitHub Repository에는 아래와 같은 코드 예제들이 있습니다.<br/>
 - private : 강의 예제 코드, 코딩 테스트 코드
 <br/>
 
-* * *
+<!-- * * * -->
 * 📤 jaekwen419@gmail.com
 *  <a href="https://gw-sheep.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp;<br/>
-* * *
+<!-- * * * -->
 
 <!--
    * JAVA
