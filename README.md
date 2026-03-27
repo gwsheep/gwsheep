@@ -2,11 +2,12 @@
 # 😊 Jae gwon Jeon 
 
 안녕하세요 백엔드 개발자로 도약중인 전재권입니다.<br/><br/>
+
 GitHub에는 프로젝트 관련 코드, 공부 코드(TIL), 코딩 테스트 코드(TIL), 참고용 forked Repository 등이 있습니다. (공부 코드는 저작권 문제로 비공개입니다) <br/>
 
 * * *
 
-* 📤 jae-kwen@daum.net
+* 📤 jaekwen419@gmail.com
 *  <a href="https://gw-sheep.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp;<br/>
 
 * * *
