@@ -1,15 +1,16 @@
    
 # 😊 Jae gwon Jeon 
+<br/>
+안녕하세요🖐 서비스 운영 경험을 바탕으로 안정적인 시스템을 개발하는 백엔드 개발자 전재권입니다<br/><br/>
 
-안녕하세요 백엔드 개발자로 도약중인 전재권입니다.<br/><br/>
-
-GitHub에는 프로젝트 관련 코드, 공부 코드(TIL), 코딩 테스트 코드(TIL), 참고용 forked Repository 등이 있습니다. (공부 코드는 저작권 문제로 비공개입니다) <br/>
+GitHub Repository에는 아래와 같은 코드 예제들이 있습니다.<br/>
+- public : 기능 구현 연습, 프로젝트, 참고용 forked Repository<br/>
+- private : 강의 예제 코드, 코딩 테스트 코드
+<br/>
 
 * * *
-
 * 📤 jaekwen419@gmail.com
 *  <a href="https://gw-sheep.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>&nbsp;<br/>
-
 * * *
 
 <!--
@@ -119,6 +120,3 @@ Here are some ideas to get you started:
 <br/>
 -->
 
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwsheep%2Fhit-counter&count_bg=%233945C4&title_bg=%23555555&icon=github.svg&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
--->
